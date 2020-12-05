@@ -1,5 +1,5 @@
 # helpdeskPatternsV2
-## Desenvolvimento de sistema(teórico) de atendimento a chamados de usuário, com melhorias, utilizando padrões de projetos implementados com linguagem de programação ```Java, abordando features como controle de Licenças.
+## Desenvolvimento de sistema(teórico) de atendimento a chamados de usuário, com melhorias, utilizando padrões de projetos implementados com linguagem de programação ```Java```, abordando features como controle de Licenças.
 
 ---
 
@@ -16,6 +16,5 @@
 ---
 Primeira parte do sistema desenvolvido: [HelpDesk Patterns](https://github.com/paulosmvargas/helpdeskPatterns)
 ---
-### Paulo Vargas
 ## Este é um projeto desenvolvido com fins acadêmicos.
 ---
