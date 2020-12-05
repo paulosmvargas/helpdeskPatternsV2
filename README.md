@@ -14,7 +14,8 @@
 * Chain of Responsibility
 - Utilizado no controle de buscas a atendimentos feitos a usuários Silver ou Gold, a partir da licença base que está sendo utilizada no momento (todos os usuários se beneficiam da licença Free por padrão), onde a licença Silver possui mais recursos que a Free, e a Gold por sua vez, mais recursos que a licença Silver.
 ---
-Primeira parte do sistema desenvolvido: [HelpDesk Patterns!](https://github.com/paulosmvargas/helpdeskPatterns)
-Paulo Vargas
+Primeira parte do sistema desenvolvido: [HelpDesk Patterns](https://github.com/paulosmvargas/helpdeskPatterns)
+---
+### Paulo Vargas
 ## Este é um projeto desenvolvido com fins acadêmicos.
 ---
